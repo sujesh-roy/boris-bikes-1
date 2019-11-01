@@ -15,4 +15,5 @@ describe DockingStation do
        # expect(@bike).to be_docked
 end
   #end
+#hello
   
